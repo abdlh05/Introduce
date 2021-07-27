@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdlh05
+- 👋 Hi, I’m Abdullah
 - 👀 I’m interested in UI/UX Design
 - 🌱 I’m currently learning Programing things
 - 💞️ I’m looking to collaborate on making mobile apps
